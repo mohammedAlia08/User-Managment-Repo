@@ -1,7 +1,7 @@
 # User Management Dashboard
 
 ## Overview
-React-based User Management Dashboard demo using JSONPlaceholder for mock backend.
+React-based User Management Dashboard demo using JSONPlaceholder for mock Api.
 
 ## Features
 - List users with pagination, sorting, search and filters
@@ -18,8 +18,8 @@ React-based User Management Dashboard demo using JSONPlaceholder for mock backen
 3. Run: `npx react-scripts start`
 
 ## Deploy
-- Push to GitHub, deploy on Netlify or Vercel.
+- Push to GitHub, deploy on Netlify.
 
 ## Notes
 - API base can be overridden with `REACT_APP_API_BASE`.
-- For a realistic local mock that *appears* persistent consider `json-server` or `msw`.
+- For a realistic local mock that *appears* persistent consider `json-server`.
