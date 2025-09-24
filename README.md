@@ -6,6 +6,7 @@ React-based User Management Dashboard demo using JSONPlaceholder for mock Api.
 ## Features
 - List users with pagination, sorting, search and filters
 - Add / Edit / Delete user (mock API)
+- Add global state / data caching
 - Client-side validation, error handling with alerts
 
 ## Tech Stack
