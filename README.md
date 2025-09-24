@@ -16,7 +16,8 @@ React-based User Management Dashboard demo using JSONPlaceholder for mock Api.
 # Setup
 1. Install: `npm install`
 2. Run: `npm start`
-3. Run: `npx react-scripts start`
+3. Run: `npm run`
+4. Run: `npx react-scripts start`
 
 ## Deploy
 - Push to GitHub, deploy on Netlify.
