@@ -21,20 +21,20 @@ export default function UserForm({ onSubmit }) {
   return (
     <form onSubmit={handleSubmit}>
       <label>
-        First Name
-        <input type="text" name="firstName" value={formData.firstName} onChange={handleChange} />
+      First Name
+<input type="text" name="firstName" value={formData.firstName} onChange={handleChange} />
       </label>
       <label>
-        Last Name
-        <input type="text" name="lastName" value={formData.lastName} onChange={handleChange} />
+      Last Name
+<input type="text" name="lastName" value={formData.lastName} onChange={handleChange} />
       </label>
       <label>
-        Email
-        <input type="email" name="email" value={formData.email} onChange={handleChange} />
+      Email
+<input type="email" name="email" value={formData.email} onChange={handleChange} />
       </label>
       <label>
-        Department
-        <input type="text" name="department" value={formData.department} onChange={handleChange} />
+      Department
+<input type="text" name="department" value={formData.department} onChange={handleChange} />
       </label>
       <button type="submit">Add User</button>
     </form>
